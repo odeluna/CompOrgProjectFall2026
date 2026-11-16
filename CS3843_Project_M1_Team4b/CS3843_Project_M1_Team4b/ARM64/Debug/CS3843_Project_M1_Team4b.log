@@ -1,0 +1,212 @@
+﻿  CryptoMain_Student.cpp
+  DecryptData_Initial.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\CryptoMain_Student.cpp(507,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\CryptoMain_Student.cpp(516,16): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(10,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(12,7): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(12,3): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(12,12): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(13,7): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(13,12): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(14,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(14,12): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(16,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(16,3): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(16,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(16,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'shl'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(17,3): error C2065: 'shl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(17,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(18,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(18,3): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(18,7): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(19,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(19,3): error C2065: 'add': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(19,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(19,12): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'movzx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,3): error C2065: 'movzx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,9): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,9): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,14): error C2275: 'byte': expected an expression instead of a type
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,19): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(20,23): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(21,3): error C2146: syntax error: missing ';' before identifier 'shl'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(21,3): error C2065: 'shl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(21,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(21,7): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,3): error C2146: syntax error: missing ';' before identifier 'movzx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,3): error C2065: 'movzx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,9): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,9): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,14): error C2275: 'byte': expected an expression instead of a type
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,19): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,23): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(22,30): error C7732: expected an expression before ']'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(23,3): error C2065: 'add': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(23,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(23,7): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(23,12): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(27,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(27,12): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(28,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(28,3): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(28,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(28,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(29,7): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(29,12): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(31,3): error C2146: syntax error: missing ';' before identifier 'encrypt_loop'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(32,3): error C2065: 'cmp': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(32,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(32,7): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(32,12): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(33,4): error C2146: syntax error: missing ';' before identifier 'jge'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(33,4): error C2065: 'jge': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(33,8): error C2146: syntax error: missing ';' before identifier 'DONE'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(33,8): error C2065: 'DONE': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,4): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,8): error C2146: syntax error: missing ';' before identifier 'dl'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,8): error C2065: 'dl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,12): error C2275: 'byte': expected an expression instead of a type
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,17): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,17): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,28): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(35,31): error C7732: expected an expression before ']'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(36,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(36,4): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(36,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(36,8): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(37,8): error C2065: 'dl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(37,17): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(37,17): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(37,21): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(37,27): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(37,30): error C7732: expected an expression before ']'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(38,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(38,4): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(38,8): error C2146: syntax error: missing ';' before identifier 'byte'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(38,24): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(39,4): error C2143: syntax error: missing ';' before '^'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(39,8): error C2065: 'edx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(39,4): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(39,13): error C2065: 'edx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(48,4): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(48,4): error C2065: 'inc': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(48,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(48,8): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(50,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(50,4): error C2065: 'jmp': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\DecryptData_Initial.cpp(50,4): error C1003: error count exceeds 100; stopping compilation
+  EncryptData_Initial.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(11,2): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(13,7): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(13,3): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(13,12): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(14,7): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(14,12): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(15,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(15,12): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(17,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(17,3): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(17,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(17,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(18,3): error C2146: syntax error: missing ';' before identifier 'shl'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(18,3): error C2065: 'shl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(18,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(18,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(19,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(19,3): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(19,7): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(19,7): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(20,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(20,3): error C2065: 'add': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(20,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(20,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(20,12): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,3): error C2146: syntax error: missing ';' before identifier 'movzx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,3): error C2065: 'movzx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,9): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,9): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,14): error C2275: 'byte': expected an expression instead of a type
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,19): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(21,23): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(22,3): error C2146: syntax error: missing ';' before identifier 'shl'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(22,3): error C2065: 'shl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(22,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(22,7): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,3): error C2146: syntax error: missing ';' before identifier 'movzx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,3): error C2065: 'movzx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,9): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,9): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,14): error C2275: 'byte': expected an expression instead of a type
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,19): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,19): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,23): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(23,30): error C7732: expected an expression before ']'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(24,3): error C2146: syntax error: missing ';' before identifier 'add'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(24,3): error C2065: 'add': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(24,7): error C2146: syntax error: missing ';' before identifier 'eax'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(24,7): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(24,12): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(28,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(28,12): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(29,3): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(29,3): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(29,7): error C2146: syntax error: missing ';' before identifier 'ecx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(29,7): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(30,7): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(30,12): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(32,3): error C2146: syntax error: missing ';' before identifier 'encrypt_loop'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(33,3): error C2065: 'cmp': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(33,7): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(33,7): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(33,12): error C2065: 'ecx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(34,4): error C2146: syntax error: missing ';' before identifier 'jge'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(34,4): error C2065: 'jge': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(34,8): error C2146: syntax error: missing ';' before identifier 'DONE'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(34,8): error C2065: 'DONE': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,4): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,8): error C2146: syntax error: missing ';' before identifier 'dl'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,8): error C2065: 'dl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,12): error C2275: 'byte': expected an expression instead of a type
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,17): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,17): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,28): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(36,31): error C7732: expected an expression before ']'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(37,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(37,4): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(37,8): error C2146: syntax error: missing ';' before identifier 'esi'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(37,8): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(38,8): error C2065: 'dl': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(38,17): error C2146: syntax error: missing ';' before identifier 'ptr'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(38,17): error C2065: 'ptr': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(38,21): error C2065: 'esi': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(38,27): error C2065: 'eax': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(38,30): error C7732: expected an expression before ']'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(39,4): error C2146: syntax error: missing ';' before identifier 'mov'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(39,4): error C2065: 'mov': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(39,8): error C2146: syntax error: missing ';' before identifier 'byte'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(39,24): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(40,4): error C2143: syntax error: missing ';' before '^'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(40,8): error C2065: 'edx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(40,4): error C3192: syntax error: '^' is not a prefix operator (did you mean '*'?)
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(40,13): error C2065: 'edx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(49,4): error C2146: syntax error: missing ';' before identifier 'inc'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(49,4): error C2065: 'inc': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(49,8): error C2146: syntax error: missing ';' before identifier 'ebx'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(49,8): error C2065: 'ebx': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(51,4): error C2146: syntax error: missing ';' before identifier 'jmp'
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(51,4): error C2065: 'jmp': undeclared identifier
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\EncryptData_Initial.cpp(51,4): error C1003: error count exceeds 100; stopping compilation
+  SHA-256.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\SHA-256.cpp(323,24): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...

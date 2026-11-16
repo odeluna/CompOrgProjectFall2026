@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="ARM64" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CS3843_Project_M1_Team4b/CS3843_Project_M1_Team4b.vcxproj" Id="45ffe881-c154-4fde-968a-af8c2b7a2cca" />
+</Solution>

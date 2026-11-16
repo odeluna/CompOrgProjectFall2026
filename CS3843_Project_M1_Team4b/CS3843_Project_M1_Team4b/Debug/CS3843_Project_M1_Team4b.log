@@ -1,0 +1,26 @@
+﻿  CryptoMain_Student.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\CryptoMain_Student.cpp(3,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+      C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\CryptoMain_Student.cpp(3,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\CryptoMain_Student.cpp(479,15): warning C4018: '<': signed/unsigned mismatch
+  DecryptData_Initial.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\Main.h(12,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'DecryptData_Initial.cpp')
+      C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\Main.h(12,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  EncryptData_Initial.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\Main.h(12,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'EncryptData_Initial.cpp')
+      C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\Main.h(12,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  SHA-256.cpp
+C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\sha-256.h(12,9): warning C4005: '_CRT_SECURE_NO_WARNINGS': macro redefinition
+  (compiling source file 'SHA-256.cpp')
+      C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\sha-256.h(12,9):
+      '_CRT_SECURE_NO_WARNINGS' previously declared on the command line
+  
+  Generating Code...
+  CS3843_Project_M1_Team4b.vcxproj -> C:\Users\odelu\source\repos\CS3843_Project_M1_Team4b\CS3843_Project_M1_Team4b\Debug\CS3843_Project_M1_Team4b.exe
